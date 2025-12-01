@@ -6,13 +6,13 @@ This is a high-level Point of Sale (POS) Software as a Service (SAAS) applicatio
 
 You can find below a feature comparison table between major POS SAAS providers in the market.
 
-[View detailed feature comparison](docs/pos-feature-comarison.md)
+[View detailed feature comparison](docs/pos-feature-comparison.md)
 
 ## Deep dive into technical architecture
 
 Toast and Clover are chosen to explore the technical choices used in those apps. 
 
-[Toast tech stack and architecture](docs/Toast-POS-Tech-Stack-Analysis.md)
+[Toast tech stack and architecture](docs/toast-pos-tech-stack-analysis.md)
 
-[Clover tech stack and architecture](docs/Clover-POS-Tech-Stack-Analysis.md)
+[Clover tech stack and architecture](docs/clover-pos-tech-stack-analysis.md)
 
